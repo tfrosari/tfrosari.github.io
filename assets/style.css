@@ -273,7 +273,7 @@ footer ul {
 
 @media only screen and (max-width: 991px) {
     header {
-        padding: 0 45px;
+        padding: 0 20px;
     }
 
     .menu-bar {
@@ -318,7 +318,11 @@ footer ul {
     .words {
         padding: 20px;
     }
-
+    
+    .words p {
+        font-size: 1.1em;
+    }
+    
     .role {
         margin: 45px;
     }

@@ -180,7 +180,6 @@ main {
 }
 
 h6 a {
-    
     color: brown;
 }
 
@@ -271,7 +270,7 @@ footer ul {
     color: black;
 }
 
-@media only screen and (max-width: 991px, hover:none) {
+@media only screen and (max-width: 991px) and (hover:none) {
     header {
         padding: 0 20px;
     }

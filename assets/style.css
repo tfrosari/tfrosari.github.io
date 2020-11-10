@@ -271,7 +271,7 @@ footer ul {
     color: black;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 991px, hover:none) {
     header {
         padding: 0 20px;
     }

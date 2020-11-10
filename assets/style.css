@@ -275,7 +275,11 @@ footer ul {
     header {
         padding: 0 20px;
     }
-
+    
+    header .logo {
+        letter-spacing: normal;
+    }
+        
     .menu-bar {
         display: block;
     }

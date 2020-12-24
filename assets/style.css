@@ -18,7 +18,6 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 9999;
 }
 
 header .logo {
@@ -158,6 +157,7 @@ main {
 
 .card:hover {
     transform: scale(1.04);
+    z-index: -1;
 }
 
 .photo {

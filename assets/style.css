@@ -157,7 +157,6 @@ main {
 
 .card:hover {
     transform: scale(1.04);
-    z-index: -1;
 }
 
 .photo {
